@@ -1,0 +1,26 @@
+D:\Visual studio\ConreteBatchingSoftware\Sharp7Library\bin\Debug\Sharp7Library.dll
+D:\Visual studio\ConreteBatchingSoftware\Sharp7Library\bin\Debug\Sharp7Library.pdb
+D:\Visual studio\ConreteBatchingSoftware\Sharp7Library\obj\Debug\Sharp7Library.dll
+D:\Visual studio\ConreteBatchingSoftware\Sharp7Library\obj\Debug\Sharp7Library.pdb
+D:\Visual studio\ConreteBatchingSoftware_90\Sharp7Library\bin\Debug\Sharp7Library.dll
+D:\Visual studio\ConreteBatchingSoftware_90\Sharp7Library\bin\Debug\Sharp7Library.pdb
+D:\Visual studio\ConreteBatchingSoftware_90\Sharp7Library\obj\Debug\Sharp7Library.dll
+D:\Visual studio\ConreteBatchingSoftware_90\Sharp7Library\obj\Debug\Sharp7Library.pdb
+D:\Visual studio\ConreteBatchingSoftware_90\Sharp7Library\obj\Debug\Sharp7Library.csprojResolveAssemblyReference.cache
+D:\Visual studio\ConreteBatchingSoftware_Skip\Sharp7Library\bin\Debug\Sharp7Library.dll
+D:\Visual studio\ConreteBatchingSoftware_Skip\Sharp7Library\bin\Debug\Sharp7Library.pdb
+D:\Visual studio\ConreteBatchingSoftware_Skip\Sharp7Library\obj\Debug\Sharp7Library.csprojResolveAssemblyReference.cache
+D:\Visual studio\ConreteBatchingSoftware_Skip\Sharp7Library\obj\Debug\Sharp7Library.dll
+D:\Visual studio\ConreteBatchingSoftware_Skip\Sharp7Library\obj\Debug\Sharp7Library.pdb
+D:\ConreteBatchingSoftware_Skip\ConreteBatchingSoftware_Skip\Sharp7Library\bin\Debug\Sharp7Library.dll
+D:\ConreteBatchingSoftware_Skip\ConreteBatchingSoftware_Skip\Sharp7Library\bin\Debug\Sharp7Library.pdb
+D:\ConreteBatchingSoftware_Skip\ConreteBatchingSoftware_Skip\Sharp7Library\obj\Debug\Sharp7Library.dll
+D:\ConreteBatchingSoftware_Skip\ConreteBatchingSoftware_Skip\Sharp7Library\obj\Debug\Sharp7Library.pdb
+D:\ConreteBatchingSoftware_Skip\ConreteBatchingSoftware_Skip\Sharp7Library\obj\Debug\Sharp7Library.csprojAssemblyReference.cache
+D:\ConreteBatchingSoftware_Skip\ConreteBatchingSoftware_Skip\Sharp7Library\obj\Debug\Sharp7Library.csproj.CoreCompileInputs.cache
+E:\ConreteBatchingSoftware_Skip\ConreteBatchingSoftware_Skip\Sharp7Library\bin\Debug\Sharp7Library.dll
+E:\ConreteBatchingSoftware_Skip\ConreteBatchingSoftware_Skip\Sharp7Library\bin\Debug\Sharp7Library.pdb
+E:\ConreteBatchingSoftware_Skip\ConreteBatchingSoftware_Skip\Sharp7Library\obj\Debug\Sharp7Library.csprojAssemblyReference.cache
+E:\ConreteBatchingSoftware_Skip\ConreteBatchingSoftware_Skip\Sharp7Library\obj\Debug\Sharp7Library.csproj.CoreCompileInputs.cache
+E:\ConreteBatchingSoftware_Skip\ConreteBatchingSoftware_Skip\Sharp7Library\obj\Debug\Sharp7Library.dll
+E:\ConreteBatchingSoftware_Skip\ConreteBatchingSoftware_Skip\Sharp7Library\obj\Debug\Sharp7Library.pdb
